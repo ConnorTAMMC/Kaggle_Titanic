@@ -1,2 +1,2 @@
 Using radom forest model to predict survived
-![Uploading image.png…]()
+Public Score:0.76794
